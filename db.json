@@ -1,0 +1,25 @@
+{
+  "musics": [
+    {
+      "id": 1,
+      "title": "title one",
+      "artist": "artist one",
+      "genre": "genre one",
+      "duration": "03:30"
+    },
+    {
+      "id": 2,
+      "title": "title two",
+      "artist": "artist two",
+      "genre": "genre two",
+      "duration": "05:04"
+    },
+    {
+      "id": 3,
+      "title": "title three",
+      "artist": "artist three",
+      "genre": "genre three",
+      "duration": "04:20"
+    }
+  ]
+}
